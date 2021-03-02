@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{5b4c1dfb-07c7-45b3-8fd6-63a0ed55895f}">
+		<property name="assetPath">
+			<value>Ambience/Ambience, Nature, Forest, Australia, Northern Territory, Bush, Dawn SND47134 1.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>6</value>
+		</property>
+		<property name="length">
+			<value>79.925937500000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e0ca22b0-20d7-4b6d-a21d-32ce401badb2}</destination>
+		</relationship>
+	</object>
+</objects>

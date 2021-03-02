@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{4046329c-ad52-4a00-bc6a-a95e89ea4c5a}">
+		<property name="assetPath">
+			<value>Character/GRAVEL_03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.71466666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e0ca22b0-20d7-4b6d-a21d-32ce401badb2}</destination>
+		</relationship>
+	</object>
+</objects>
