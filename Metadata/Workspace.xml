@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="Workspace" id="{cf7347e1-6d18-4255-980c-212300998e04}">
 		<property name="builtBanksOutputDirectory">
-			<value>I:/Applications (x86)/Unity Projects/Collab Projects/CIU330-Ashland-Project/AshlandProject/Assets/FMODBanks</value>
+			<value>../CIU330-Ashland-Project/AshlandProject/Assets/FMOD Banks</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{7064fbc6-9972-44fd-bac0-875a8fe28ccd}</destination>

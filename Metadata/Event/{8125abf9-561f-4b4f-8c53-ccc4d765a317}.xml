@@ -250,10 +250,10 @@
 			<value>-80</value>
 		</property>
 		<property name="midGain">
-			<value>-6</value>
+			<value>-5</value>
 		</property>
 		<property name="highGain">
-			<value>-8</value>
+			<value>-6</value>
 		</property>
 		<property name="highCrossover">
 			<value>6000</value>
