@@ -127,7 +127,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{ccd835e6-642e-486d-bbcb-971c76dedace}">
 		<property name="name">
-			<value>BaseLayer</value>
+			<value>ExtraAmbience</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{300f65dd-e7e6-456b-b91c-8eb75725195e}</destination>
@@ -158,7 +158,7 @@
 			<value>-5</value>
 		</property>
 		<property name="name">
-			<value>ExtraAmb</value>
+			<value>BaseLayer</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{321e7a28-d507-4f34-8988-84d9e9bfb0cb}</destination>
